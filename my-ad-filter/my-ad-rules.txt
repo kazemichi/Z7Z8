@@ -1,5 +1,15 @@
-! Title: 自用广告过滤规则
+! Title: My Ad Rules
 ! Homepage: https://github.com/kazemichi/Z7Z8/blob/main/my-ad-filter
 !
-! 橘子ACG
+! 拦截
 www.mgnacg.com##.two.col-xl-6.ds-adif-c1.ds-adif-d1
+! 白名单
+@@adv.acg3.org
+@@api.123278.com
+@@app.rainyun.com
+@@challenges.cloudflare.com
+@@dl.reg.163.com
+@@html-load.com
+@@masuit.net
+@@masuit.org
+@@woozooo.com
