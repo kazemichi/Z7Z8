@@ -1,1 +1,6 @@
+! Title: 自用mgnacg过滤规则
+! Description: 个人自用站点广告隐藏规则
+! Homepage: https://github.com/你的用户名/你的仓库名
+!
+! 橘子ACG
 www.mgnacg.com##.two.col-xl-6.ds-adif-c1.ds-adif-d1
