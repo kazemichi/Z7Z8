@@ -11,6 +11,7 @@ ggb.dlgal.com#?#center
 kekehxl.top#?#div.elementor-element-29a7b906 > a
 kekehxl.top#?#div.elementor-element-8bb18b6 a
 soutubot.moe##div#search-content
+soutubot.moe##div#result-start-content
 www.mgnacg.com##.two.col-xl-6.ds-adif-c1.ds-adif-d1
 www.moyu.moe#?#div.overflow-hidden.rounded-2xl.shadow-xl
 
