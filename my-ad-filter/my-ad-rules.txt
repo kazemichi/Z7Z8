@@ -1,18 +1,20 @@
 ! Title: My Ad Rules
 ! Homepage: https://github.com/kazemichi/Z7Z8/blob/main/my-ad-filter
 !
-! 内容拦截
+!========== 广告元素拦截 ==========
 2dfan.com##div.detail-banner-grid__ad
-www.mgnacg.com##.two.col-xl-6.ds-adif-c1.ds-adif-d1
-kekehxl.top#?#div.elementor-element-29a7b906 > a
-kekehxl.top#?#div.elementor-element-8bb18b6 a
-ggbases.com#?#td.ad
-ggb.dlgal.com#?#center
 chromewebstore.google.com##[aria-label="Info"]:has-text(Switch to Chrome)
 chromewebstore.google.com##[role="dialog"][aria-labelledby="promo-header"]
 fufuko.com#?#div#app > div > div > aside > aside > div > a
+ggbases.com#?#td.ad
+ggb.dlgal.com#?#center
+kekehxl.top#?#div.elementor-element-29a7b906 > a
+kekehxl.top#?#div.elementor-element-8bb18b6 a
+soutubot.moe##div#search-content
+www.mgnacg.com##.two.col-xl-6.ds-adif-c1.ds-adif-d1
 www.moyu.moe#?#div.overflow-hidden.rounded-2xl.shadow-xl
-! 白名单
+
+!========== 白名单规则 @@ ==========
 @@adv.acg3.org
 @@api.123278.com
 @@app.rainyun.com
@@ -22,7 +24,8 @@ www.moyu.moe#?#div.overflow-hidden.rounded-2xl.shadow-xl
 @@masuit.net
 @@masuit.org
 @@woozooo.com
-! DNS
+
+!========== DNS 域名拦截 || ==========
 ||mcdn.bilivideo.cn^
 ||szbdyd.com^
 ||localhost.weixin.qq.com^
